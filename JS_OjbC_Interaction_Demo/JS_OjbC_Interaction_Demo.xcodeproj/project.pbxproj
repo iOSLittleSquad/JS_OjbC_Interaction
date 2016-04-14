@@ -56,7 +56,6 @@
 		C5BD08581C1C75B6002F0F36 /* Test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Test.html; sourceTree = "<group>"; };
 		C5BD085A1C1C760D002F0F36 /* JavaScriptContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JavaScriptContext.h; sourceTree = "<group>"; };
 		C5BD085B1C1C760D002F0F36 /* JavaScriptContext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JavaScriptContext.m; sourceTree = "<group>"; };
-		C5EE35161CBF91D00011A021 /* airmediaWildcard_Develop.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = airmediaWildcard_Develop.mobileprovision; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +107,6 @@
 			isa = PBXGroup;
 			children = (
 				C5BD08581C1C75B6002F0F36 /* Test.html */,
-				C5EE35161CBF91D00011A021 /* airmediaWildcard_Develop.mobileprovision */,
 				C5BD085A1C1C760D002F0F36 /* JavaScriptContext.h */,
 				C5BD085B1C1C760D002F0F36 /* JavaScriptContext.m */,
 				C5BD08281C1C7548002F0F36 /* AppDelegate.h */,
